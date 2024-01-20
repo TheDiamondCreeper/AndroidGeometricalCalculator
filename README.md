@@ -1,2 +1,2 @@
 # AndroidGeometricalCalculator
-This calculator helps you find the area and the perimeter of 2D and 3D shapes.
+This calculator helps you find the geometrical properties of 2D and 3D shapes.
